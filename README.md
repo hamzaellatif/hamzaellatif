@@ -60,12 +60,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzaellatif&show_icons=true&theme=radical)
-
----
-
 ## 🌟 What Makes Me Different
 
 - **Diverse Domain Expertise**: From consumer streaming (millions of users) to enterprise manufacturing systems
